@@ -3,7 +3,7 @@ package sample
 import (
 	"strconv"
 
-	"oos-go-sdk/oos"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 )
 
 func CopyPartMultipartSample() {

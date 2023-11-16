@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"oos-go-sdk/oos"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 )
 
 func GetObjectMultipartSample() {

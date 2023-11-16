@@ -3,7 +3,7 @@ package sample
 import (
 	"fmt"
 
-	"oos-go-sdk/oos"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 )
 
 // ListObjectsSample shows the file list, including default and specified parameters.

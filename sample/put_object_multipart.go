@@ -1,6 +1,6 @@
 package sample
 
-import "oos-go-sdk/oos"
+import "github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 
 func PutObjectMultipartSample() {
 

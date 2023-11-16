@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"oos-go-sdk/sample"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/sample"
 )
 
 func main() {

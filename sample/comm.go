@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"oos-go-sdk/oos"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 )
 
 var (

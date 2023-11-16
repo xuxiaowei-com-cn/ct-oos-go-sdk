@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"oos-go-sdk/oos"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 )
 
 func readFile(path string, offset int64, size int64) *bytes.Buffer {

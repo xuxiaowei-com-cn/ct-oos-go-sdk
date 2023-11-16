@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"oos-go-sdk/oos"
+	"github.com/xuxiaowei-com-cn/ct-oos-go-sdk/oos"
 )
 
 // GetObjectSample shows the streaming download, range download and resumable download.
