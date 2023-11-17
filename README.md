@@ -105,6 +105,11 @@
   </a>
 </div>
 
+## 命令行工具（脚手架）
+
+- 项目地址：https://github.com/xuxiaowei-com-cn/ct-oos-go
+- Windows/Linux/Mac、x86/arm 可执行程序：https://github.com/xuxiaowei-com-cn/ct-oos-go/releases
+
 ## 文档
 
 1. [对象存储（经典版）I型 -> 文档下载 -> SDK及开发指南](https://www.ctyun.cn/document/10026693/10026825)
